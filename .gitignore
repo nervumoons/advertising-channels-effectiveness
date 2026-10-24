@@ -1,0 +1,12 @@
+# Приватный ноутбук: реальная ссылка на папку Google Drive
+effectiveness_of_advertising_channels.ipynb
+
+# Окружение и служебные файлы
+.venv-ds/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# ОС
+.DS_Store
+Thumbs.db
